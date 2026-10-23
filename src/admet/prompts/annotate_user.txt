@@ -1,0 +1,35 @@
+### DRUG: $drug_name
+DrugBank ID: $drugbank_id
+Type: $drug_type
+ATC codes: $atc
+Category tags: $category_tags
+
+## CLINICAL
+Description: $description
+Indication: $indication
+
+## PHARMACODYNAMICS
+Mechanism of action: $mechanism_of_action
+Pharmacodynamics: $pharmacodynamics
+Targets: $targets
+Affected organisms: $affected_organisms
+
+## PHARMACOKINETICS
+Absorption: $absorption
+Protein binding: $protein_binding
+Volume of distribution: $volume_of_distribution
+Metabolism: $metabolism
+Half-life: $half_life
+Clearance: $clearance
+Route of elimination: $route_of_elimination
+
+## TOXICITY
+Toxicity: $toxicity
+
+## FDA LABEL (US prescribing information, when available)
+$fda_label
+
+## ROUTES
+$routes
+
+Annotate this drug.
